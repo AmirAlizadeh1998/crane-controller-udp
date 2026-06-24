@@ -116,6 +116,6 @@ while True:
 
     except Exception as e:
         # Catch any unexpected errors to prevent the server from crashing.
-        # Sleep for $1$ second to prevent rapid error looping.
+        # Sleep for 1 second to prevent rapid error looping.
         print(f"Unexpected error occurred: {e}")
         time.sleep(1)
