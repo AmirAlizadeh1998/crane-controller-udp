@@ -66,6 +66,7 @@ Prerequisites
 ⚠️ Disclaimer
 
 This project is a proof-of-concept and is intended for educational purposes only. DO NOT use this application to control real, live machinery without extensive testing, safety features, and professional validation. The author is not responsible for any damage or harm caused by the use of this software.
+
 📬 Contact
 
 Amir Alizadeh - www.linkedin.com/in/amirhossein-alizadeh-dev - amirhossein.alizadeh.work@gmail.com
