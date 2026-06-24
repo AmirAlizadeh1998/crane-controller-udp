@@ -4,6 +4,7 @@ A real-time Android application for controlling industrial machinery (cranes) ov
 🎬 Demo
 
 https://github.com/user-attachments/assets/03b13d2d-1018-49a7-9ceb-a13144e8e83f
+
 📖 About The Project
 
 This application was developed to provide a modern, mobile-first alternative to traditional physical controllers for industrial cranes. The primary goal was to achieve minimal latency (< 50ms) for precise and safe operations using the lightweight UDP protocol. It connects to a hardware endpoint (the crane’s control unit) on a specified IP address and port.
