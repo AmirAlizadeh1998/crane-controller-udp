@@ -1,4 +1,3 @@
-الان این شد محتوای readme.md:
 #  Crane Controller via UDP 🏗️
 
 A real-time Android application for controlling industrial machinery (cranes) over a local network using the UDP protocol. This project focuses on low-latency communication and a clean, intuitive user interface.
@@ -6,7 +5,6 @@ A real-time Android application for controlling industrial machinery (cranes) ov
 ## 🎬 Demo
 
 ![Image](https://github.com/user-attachments/assets/88499876-2eb8-437a-9df5-8934da99e707)
-*A short demo of the app controlling the mock server.*
 
 ## 📖 About The Project
 
@@ -74,5 +72,3 @@ This project is a proof-of-concept and is intended for educational purposes only
 📬 Contact
 
 Amir Alizadeh - LinkedIn Profile - your.email@example.com
-
-اول از ویدئوی دمو شروع کنیم چجوری بذارم؟
