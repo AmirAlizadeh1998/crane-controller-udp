@@ -5,7 +5,6 @@ A real-time Android application for controlling industrial machinery (cranes) ov
 
 ## 🎬 Demo
 
-*(اینجا مهم‌ترین بخشه! یه ویدیو کوتاه یا GIF از صفحه اپلیکیشن در حال کار بذار. چون کسی جرثقیل نداره، باید بتونه ببینه اپ کار می‌کنه. می‌تونی از صفحه گوشیت فیلم بگیری.)*
 ![Image](https://github.com/user-attachments/assets/88499876-2eb8-437a-9df5-8934da99e707)
 *A short demo of the app controlling the mock server.*
 
