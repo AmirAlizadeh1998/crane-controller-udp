@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        maven(url = "https://maven.myket.ir")
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        maven(url = "https://maven.myket.ir")
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Test Application"
+include(":app")
