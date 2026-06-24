@@ -4,7 +4,7 @@ A real-time Android application for controlling industrial machinery (cranes) ov
 
 ## 🎬 Demo
 
-![Image](https://github.com/user-attachments/assets/88499876-2eb8-437a-9df5-8934da99e707)
+https://github.com/user-attachments/assets/03b13d2d-1018-49a7-9ceb-a13144e8e83f
 
 ## 📖 About The Project
 
